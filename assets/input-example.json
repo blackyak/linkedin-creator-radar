@@ -1,0 +1,18 @@
+{
+  "posts_input": {
+    "targetUrls": [
+      "https://www.linkedin.com/in/melvin-reymondon-979811384/",
+      "https://www.linkedin.com/in/alex-vacca/",
+      "https://www.linkedin.com/in/majavoje/"
+    ],
+    "maxPosts": 30,
+    "postedLimit": "3months",
+    "includeReposts": false,
+    "scrapeReactions": false,
+    "scrapeComments": false
+  },
+  "profiles_input": {
+    "profileScraperMode": "Profile details no email ($4 per 1k)",
+    "publicIdentifiers": ["melvin-reymondon-979811384", "alex-vacca", "majavoje"]
+  }
+}
